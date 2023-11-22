@@ -40,7 +40,7 @@ class RegisterPageScreen extends StatelessWidget {
             SizedBox(height: height * 0.02),
             MyTextFieldWidget(
               sufix: SvgPicture.asset("Assets/Images/smartphone.svg"),
-              hinttxt: "Enter your email",
+              hinttxt: "Enter your mobile number",
               obx: false,
             ),
             SizedBox(height: height * 0.02),
