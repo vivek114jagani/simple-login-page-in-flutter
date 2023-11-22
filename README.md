@@ -15,4 +15,3 @@ A new Flutter project.
 * ### [_Montserrat_] (https://fonts.google.com/specimen/Montserrat?query=Montserrat)
 ---
 # Images
-![Image Link] (https://github.com/vivek114jagani/simple-login-page-in-flutter/blob/master/Welcome_Screen.png)
