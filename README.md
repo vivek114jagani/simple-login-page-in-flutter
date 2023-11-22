@@ -8,11 +8,11 @@ A new Flutter project.
 * In this app i have using svg images and other font stayle.
 ---
 # Dependencies
-* ## [_flutter_svg_] (https://pub.dev/packages/flutter_svg)
-* ## [_soomth_page_indicator_] (https://pub.dev/packages/smooth_page_indicator)
+* ### [_flutter_svg_] (https://pub.dev/packages/flutter_svg)
+* ### [_soomth_page_indicator_] (https://pub.dev/packages/smooth_page_indicator)
 ---
 # Font Family
-* ## [_Montserrat_] (https://fonts.google.com/specimen/Montserrat?query=Montserrat)
+* ### [_Montserrat_] (https://fonts.google.com/specimen/Montserrat?query=Montserrat)
 ---
 # Images
 
