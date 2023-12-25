@@ -8,11 +8,11 @@ A new Flutter project.
 * In this app i have using svg images and other font style.
 ---
 # Dependencies
-* ### [_flutter_svg_] (https://pub.dev/packages/flutter_svg)
-* ### [_smooth_page_indicator_] (https://pub.dev/packages/smooth_page_indicator)
+ - [_flutter_svg_](https://pub.dev/packages/flutter_svg)
+ - [_smooth_page_indicator_](https://pub.dev/packages/smooth_page_indicator)
 ---
 # Font Family
-* ### [_Montserrat_] (https://fonts.google.com/specimen/Montserrat?query=Montserrat)
+ [_Montserrat_](https://fonts.google.com/specimen/Montserrat?query=Montserrat)
 ---
 # Screen Short
 ![Welcome Screen](https://github.com/vivek114jagani/simple-login-page-in-flutter/assets/139865144/88064ffa-e957-4976-afad-cf712cc36ff4)
